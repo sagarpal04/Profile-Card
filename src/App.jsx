@@ -11,7 +11,7 @@ const App = () => {
   ];
 
   return (
-    <div className="pt-10 flex  justify-center h-screen items-center">
+    <div className="h-screen flex justify-center items-center">
       <ProfileCard skills={skills} />
     </div>
   );
